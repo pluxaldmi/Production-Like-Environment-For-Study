@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lesson 1</string>
+    <string name="tv_name_default">My name is Alice</string>
+    <string name="new_text_mirea">New text in MIREA!</string>
+</resources>
