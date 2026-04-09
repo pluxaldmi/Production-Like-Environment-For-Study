@@ -19,8 +19,8 @@
 - Во второй активности отображается текст:  
   **"КВАДРАТ ЗНАЧЕНИЯ МОЕГО НОМЕРА ПО СПИСКУ В ГРУППЕ СОСТАВЛЯЕТ 81, а текущее время (текущее время)"**
 
-<image-card alt="Реализация модуля 1" src="screenshots/1.1.png" ></image-card>
-<image-card alt="Реализация модуля 1" src="screenshots/1.2.png" ></image-card>
+![Реализация модуля 1](screenshots/1.1.png)
+![Реализация модуля 1](screenshots/1.2.png)
 
 ### 2. Обмен данными
 
@@ -29,8 +29,8 @@
 - Передача названия любимой книги и цитаты от разработчика
 - Возврат введённых пользователем данных на главный экран
 
-<image-card alt="Реализация модуля 2" src="screenshots/2.1.png" ></image-card>
-<image-card alt="Реализация модуля 2" src="screenshots/2.2.png" ></image-card>
+![Реализация модуля 2](screenshots/2.1.png)
+![Реализация модуля 2](screenshots/2.2.png)
 
 ### 3. Вызов системных приложений
 
@@ -39,10 +39,10 @@
 - Кнопка "Открыть браузер" -> `ACTION_VIEW` (http)
 - Кнопка "Открыть карту" -> `ACTION_VIEW` (geo)
 
-<image-card alt="Реализация модуля 3" src="screenshots/3.1.png" ></image-card>
-<image-card alt="Реализация модуля 3" src="screenshots/3.2.png" ></image-card>
-<image-card alt="Реализация модуля 3" src="screenshots/3.3.png" ></image-card>
-<image-card alt="Реализация модуля 3" src="screenshots/3.4.png" ></image-card>
+![Реализация модуля 3](screenshots/3.1.png)
+![Реализация модуля 3](screenshots/3.2.png)
+![Реализация модуля 3](screenshots/3.3.png)
+![Реализация модуля 3](screenshots/3.4.png)
 
 ### 4. Фрагменты
 
@@ -51,8 +51,8 @@
 - Реализовано переключение фрагментов через кнопки
 - Поддержка горизонтальной ориентации экрана (при этом оба фрагмента всё так же отображаются рядом)
 
-<image-card alt="Реализация модуля 4" src="screenshots/4.1.png" ></image-card>
-<image-card alt="Реализация модуля 4" src="screenshots/4.2.png" ></image-card>
+![Реализация модуля 4](screenshots/4.1.png)
+![Реализация модуля 4](screenshots/4.2.png)
 
 ### 5. Контрольное задание
 
@@ -65,4 +65,4 @@
 - Корректная обработка открытия/закрытия шторки
 - Современная обработка кнопки «Назад» через `OnBackPressedDispatcher`, как этого требует AndroidStudio, выдавая ранее ошибку
 
-<image-card alt="Реализация контрольного задания" src="screenshots/5.1.png" ></image-card>
+![Реализация контрольного задания](screenshots/5.1.png)
